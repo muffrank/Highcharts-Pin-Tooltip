@@ -1,0 +1,22 @@
+{
+  "name": "highcharts-pin-tooltip",
+  "version": "1.0.0",
+  "description": "An Highcharts library to pin tooltip.",
+  "main": "highcharts-tooltip-pin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muffrank/Highcharts-Pin-Tooltip.git"
+  },
+  "keywords": [
+    "Highcharts"
+  ],
+  "author": "Muhammad Umar Farooq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muffrank/Highcharts-Pin-Tooltip/issues"
+  },
+  "homepage": "https://github.com/muffrank/Highcharts-Pin-Tooltip#readme"
+}
